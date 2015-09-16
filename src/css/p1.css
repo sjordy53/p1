@@ -1,0 +1,25 @@
+header {
+	font-family: "josefin-sans";
+	font-weight: bold;
+	padding: 5% 0px 5px 0px;
+	text-align: center;
+}
+
+li {
+    list-style-type: none;
+	font-family: "josefin-sans";
+}
+
+nav {
+	font-size: 125%;
+}
+
+div.main h4 {
+	font-family: "josefin-sans";
+	font-weight: bold;
+}
+
+div.main p {
+	font-family: "architects-daughter";
+	font-size: 125%;
+}
